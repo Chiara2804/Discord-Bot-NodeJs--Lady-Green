@@ -1,4 +1,4 @@
-#Lady Green 🌻🍃
+# Lady Green 🌻🍃
 
 ## Goal
 Lady Green is a chatbot that helps people to be more eco-friendly.
