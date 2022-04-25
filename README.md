@@ -1,5 +1,5 @@
 # Lady Green 🌻🍃
-<div><img src="https://github.com/Chiara2804/Lady-Green/blob/main/imgs/saluto.png?raw=true"> </div>
+<div><img src="https://github.com/Chiara2804/Lady-Green/blob/main/saluto.png?raw=true"> </div>
 
 
 ## Goal
