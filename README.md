@@ -1,5 +1,6 @@
 # Lady Green 🌻🍃
-<img src="https://github.com/Chiara2804/Lady-Green/blob/main/imgs/saluto.png?raw=true"b style="width: 250px">
+<div style="width: 250px"><img src="https://github.com/Chiara2804/Lady-Green/blob/main/imgs/saluto.png?raw=true"> </div>
+
 
 ## Goal
 Lady Green is a Discord Bot that helps people to be more eco-friendly.
