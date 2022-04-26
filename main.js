@@ -9,4 +9,4 @@ client.once('ready', () => {
 
 
 
-client.login('OTY4NjAzODAwMTExODI5MDEy.YmhQlQ.ZNo1HohiZ_xlS0s-kinJiWqJ3OM');
+client.login('your-token');
