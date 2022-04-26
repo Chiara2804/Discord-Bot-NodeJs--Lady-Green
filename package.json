@@ -1,0 +1,22 @@
+{
+  "name": "lady-green",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiara2804/Lady-Green.git"
+  },
+  "author": "Chiara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chiara2804/Lady-Green/issues"
+  },
+  "homepage": "https://github.com/Chiara2804/Lady-Green#readme"
+}
