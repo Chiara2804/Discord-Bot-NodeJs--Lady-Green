@@ -17,3 +17,6 @@ Link to the <a href="https://discord.gg/bqrAMPnj">server</a> that enables Lady G
 </ul>
 
 Created for: Progetto NERD? in collaboration with Padua University and IBM.
+
+## Languages and Tools 
+
