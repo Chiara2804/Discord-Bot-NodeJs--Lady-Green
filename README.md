@@ -11,7 +11,7 @@ Link to the <a href="https://discord.gg/bqrAMPnj">server</a> that enables Lady G
 ## Commands on Discord:
 ```-ping``` <br>
 ```-help``` <br>
-```-command``` <br>
+```-rules``` <br>
 
 
 ## Creators
