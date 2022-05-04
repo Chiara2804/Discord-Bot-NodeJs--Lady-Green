@@ -27,11 +27,22 @@ client.on('message', message => {
     if (command === 'ping') {
         client.commands.get('ping').execute(message, args);
     } else if (command === 'help') {
-        client.commands.get('help').execute(message, args);
+        client.commands.get('help').execute(message, args, Discord);
+    } else if (command === 'start') {
+        client.commands.get('start').execute(message, args);
     } else if (command === 'rules') {
         client.commands.get('rules').execute(message, args, Discord);
+    } else if (command === 'author') {
+        client.commands.get('author').execute(message, args, Discord);
     }
 });
 
+client.on('message', gotMessage);
+
+function gotMessage(message) {
+    if (message.content === 'ciao') {
+        message.reply('Hi! I can help you to be more eco-friendly.\nDo you like to talk to me?\n[yes/no]');
+    }
+}
 
 client.login('your-token');
