@@ -1,5 +1,10 @@
 # Lady Green 🌻🍃
-<div width=30px, height=30px><img src="https://github.com/Chiara2804/Lady-Green/blob/main/saluto%20(2).png?raw=true"> </div>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+<div><img src="https://github.com/Chiara2804/Lady-Green/blob/main/saluto%20(2).png?raw=true"> </div>
 
 
 ## 🎯 Goal
