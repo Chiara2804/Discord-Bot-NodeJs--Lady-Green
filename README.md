@@ -22,8 +22,8 @@ Link to the <a href="https://discord.gg/bqrAMPnj">server</a> that enables Lady G
 
 ## Creators
 <ul>
-  <li> Chiara Mancarella (developer) </li>
-  <li> Matilde Ruffino (artist) </li>
+  <li> Chiara Mancarella </li>
+  <li> Matilde Ruffino </li>
   <li> Ilaria Boscolo Nata </li>
 </ul>
 
