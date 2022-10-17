@@ -1,4 +1,4 @@
-<img src="README_img/github-header-image.png"/>
+<img src="README_imgs/github-header-image.png"/>
 <div>
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
